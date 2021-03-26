@@ -1,7 +1,7 @@
 --- 
 name: vserver-advanced-params-BI
 namespace: com.citrix.adc.commontypes
-version: "1.1"
+version: "1.0"
 description: "This StyleBook defines advanced settings for CS or LB Vservers."
 private: true
 schema-version: "1.0"
