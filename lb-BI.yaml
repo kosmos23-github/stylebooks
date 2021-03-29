@@ -60,7 +60,7 @@ components:
         type: ns::servicegroup
         condition: $parameters.svc-servers
         properties: 
-          servicegroupname: "SVGRP-" + $parameters.lb-appname
+          servicegroupname: SVGRP- + $parameters.lb-appname
           servicetype: $parameters.svc-service-type
           cip?: $parameters.svcg-advanced.svc-client-ip
           cipheader?: $parameters.svcg-advanced.svc-client-ip-header
