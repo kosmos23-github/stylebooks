@@ -16,6 +16,7 @@ parameters:
     label: "Load Balanced Application Name"
     description: "Name of the Load Balanced application"
     type: string
+    default: Xinstnace-nameX-vipXXX-inh-Xservice-nameX-tcp-80
     key: true
     gui:
       updatable: false
