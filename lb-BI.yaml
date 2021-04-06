@@ -17,7 +17,7 @@ import-stylebooks:
   - 
     namespace: com.citrix.adc.stylebooks
     prefix: stlb
-    version: "1.2"
+    version: "1.0"
 parameters-default-sources:
   - cmtypes::lbvserver-params-BI
   - cmtypes::services-params
