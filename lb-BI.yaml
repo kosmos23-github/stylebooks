@@ -9,7 +9,7 @@ import-stylebooks:
   - 
     namespace: netscaler.nitro.config
     prefix: ns
-    version: "10.5"
+    version: "12.1"
   - 
     namespace: com.citrix.adc.commontypes
     prefix: cmtypes
