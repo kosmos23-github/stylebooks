@@ -13,11 +13,11 @@ import-stylebooks:
   - 
     namespace: com.citrix.adc.commontypes
     prefix: cmtypes
-    version: "1.0"
+    version: "1.1"
   - 
     namespace: com.citrix.adc.stylebooks
     prefix: stlb
-    version: "1.0"
+    version: "1.2"
 parameters-default-sources:
   - cmtypes::lbvserver-params-BI
   - cmtypes::services-params
