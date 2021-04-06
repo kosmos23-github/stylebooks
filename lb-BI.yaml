@@ -47,6 +47,7 @@ components:
       somethod?: $parameters.lb-advanced.spillover-method
       sothreshold?: $parameters.lb-advanced.spillover-threshold
       httpprofilename?: $parameters.lb-advanced.http-profile
+      netprofile?: $parameters.lb-advanced.net-profile
       downstateflush?: $parameters.lb-advanced.flush-on-state-down
       authentication?: $parameters.lb-advanced.auth-params.authentication
       authenticationhost?: $parameters.lb-advanced.auth-params.authentication-host
