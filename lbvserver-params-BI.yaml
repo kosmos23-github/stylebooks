@@ -9,7 +9,7 @@ import-stylebooks:
   - 
     namespace: com.citrix.adc.commontypes
     prefix: cmtypes
-    version: "1.0"
+    version: "1.1"
 parameters: 
   - 
     name: lb-appname
