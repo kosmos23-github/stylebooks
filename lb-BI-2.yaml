@@ -1,5 +1,5 @@
 --- 
-name: lb-BI
+name: lb-BI-2
 namespace: com.citrix.adc.stylebooks
 version: "1.2"
 display-name: "BI HTTP/SSL LoadBalancing StyleBook"
